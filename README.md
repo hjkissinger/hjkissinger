@@ -17,7 +17,7 @@
 
 
 
-[GitPage]: https://github.com/hjkissinger/
+[GitPage]: https://github.com/hjkissinger/hjkissinger.github.io
 [github]: https://github.com/hjkissinger
 [linkedin]: https://www.linkedin.com/in/](https://www.linkedin.com/in/hannah-j-kissinger-854403116/)
 [tableau]: https://public.tableau.com/app/profile/hannah.kissinger6750
