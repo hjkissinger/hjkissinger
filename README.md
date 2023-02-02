@@ -17,7 +17,7 @@
 [<img align="left" alt="Tableau" src="https://img.shields.io/badge/-Tableau-orange?style=for-the-badge&logo=tableau&logoColor=white" />][tableau]
 
 
-[GitRepo]: https://github.com/hjkissinger/hjkissinger.github.io
+[GitPage]: https://github.com/hjkissinger/
 [github]: https://github.com/hjkissinger
 [linkedin]: https://www.linkedin.com/in/](https://www.linkedin.com/in/hannah-j-kissinger-854403116/)
 [tableau]: https://public.tableau.com/app/profile/hannah.kissinger6750
