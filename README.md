@@ -3,7 +3,7 @@
 ### Welcome to my GitHub!
 
 #### I'm an interdisciplinary data analyst who loves:
-- :computer: Data
+- :computer: Code
 - :dna: Science
 - :yarn: All things hygge! *(cozy!)* 
 
