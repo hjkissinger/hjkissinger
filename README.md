@@ -3,8 +3,8 @@
 ### Welcome to my GitHub!
 
 #### I'm an interdisciplinary data analyst who loves:
-- :computer: Coding: Currently using R/SQL/BASH
-- :dna: Science: Microbiology, Molecular Bio, Health, and Environmental
+- :computer: Coding *(Currently using R/SQL/BASH)*
+- :dna: Science *(Microbiology, Molecular Bio, Health, and Environmental)*
 - :yarn: All things hygge! *(cozy!)*
 
 ### Want to learn more about my projects or collaborate?
