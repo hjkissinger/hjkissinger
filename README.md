@@ -19,7 +19,7 @@
 
 [GitPage]: https://github.com/hjkissinger/
 [github]: https://github.com/hjkissinger
-[linkedin]: https://www.linkedin.com/in/](https://www.linkedin.com/in/hannah-j-kissinger-854403116/)
+[linkedin]: https://www.linkedin.com/in/](https://www.linkedin.com/in/hjkissinger)
 [tableau]: https://public.tableau.com/app/profile/hannah.kissinger6750
 [website]: https://hjkissinger.github.io/
 [medium]: https://medium.com/@hjkissinger
