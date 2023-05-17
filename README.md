@@ -6,7 +6,7 @@
 
 #### Things I love:
 - :computer: Coding Solutions *(R/SQL/BASH)*
-- :dna: Science *(Microbiology/Molecular Bio)*
+- :dna: Science Topics *(Microbiology/Molecular Bio)*
 - :yarn: All things hygge! *(cozy!)*
 
 ### Want to learn more about me, my projects or collaborate?
