@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub!
 
-#### I am an interdisciplinary data analyst who loves a good data mystery. My background in business strategy, organizational learning, business intelligence software, analytics, and scientific methods grant me a unique perspective when revamping business processes for modern-day challenges. 
+#### I am an interdisciplinary data analyst who loves a good data mystery. I currently work at Yale University as a Program Coordinator in the Office of Development. My background in business strategy, organizational learning, business intelligence software, analytics, and scientific methods grant me a unique perspective when revamping business processes for modern-day challenges. 
 
 #### Rather than reinventing the wheel, I develop business intelligence tools from common software, such as Microsoft Excel, PowerBI, and Windows PowerShell. I aim to make tools tailored to specific business problems, replicable, and accessible for all skill levels. 
 
