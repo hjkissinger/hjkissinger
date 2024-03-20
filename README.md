@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub!
 
-#### I am an interdisciplinary data analyst who loves a good data mystery. My background in organizational learning, business intelligence software, analytics, and scientific methods grant me a unique perspective when revamping business processes for modern day challenges. 
+#### I am an interdisciplinary data analyst who loves a good data mystery. My background in business strategy, organizational learning, business intelligence software, analytics, and scientific methods grant me a unique perspective when revamping business processes for modern-day challenges. 
 
 #### Rather than reinventing the wheel, I develop business intelligence tools from common software, such as Microsoft Excel, PowerBI, and Windows PowerShell. I aim to make tools tailored to specific business problems, replicable, and accessible for all skill levels. To create these solutions, I collect information from key stakeholders and then develop the solution with UX design thinking methods. Sometimes this means filling up an entire whiteboard or making colorful sticky-note decision trees! I then develop the business intelligence tool and its standard operating procedure (SOP) jointly to ensure the replicability. These SOPs detail the process in textual, diagrammatic, and pictoral formats to improve organizational learning outcomes for all skill levels.
 
